@@ -1,0 +1,11 @@
+C:\Users\heetv\Desktop\AoC\3\3\bin\Debug\3.exe.config
+C:\Users\heetv\Desktop\AoC\3\3\bin\Debug\3.exe
+C:\Users\heetv\Desktop\AoC\3\3\bin\Debug\3.pdb
+C:\Users\heetv\Desktop\AoC\3\3\bin\Debug\3.xml
+C:\Users\heetv\Desktop\AoC\3\3\obj\Debug\3.vbproj.AssemblyReference.cache
+C:\Users\heetv\Desktop\AoC\3\3\obj\Debug\_3.Resources.resources
+C:\Users\heetv\Desktop\AoC\3\3\obj\Debug\3.vbproj.GenerateResource.cache
+C:\Users\heetv\Desktop\AoC\3\3\obj\Debug\3.vbproj.CoreCompileInputs.cache
+C:\Users\heetv\Desktop\AoC\3\3\obj\Debug\3.exe
+C:\Users\heetv\Desktop\AoC\3\3\obj\Debug\3.xml
+C:\Users\heetv\Desktop\AoC\3\3\obj\Debug\3.pdb
